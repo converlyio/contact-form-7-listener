@@ -1,0 +1,5 @@
+homepage: "https://converly.io"
+documentation: "https://converly.io/gtm-templates/contact-form-7"
+versions:
+  - sha: ff1f4901a5cf7b50a9a4c0c6d8e46e2ecc841fcb
+    changeNotes: First release.
